@@ -15,7 +15,7 @@ Guess the hidden word by asking yes/no questions in this fun and interactive gam
 Try it live at **[ https://guess-ask.vercel.app/ ](https://guess-ask.vercel.app/)**
 
 ## Screenshot
-![Game Interface](image-assets/frontend.png)
+![Game Interface](assets/frontend.png)
 
 ## Insprired From
 it's basically [workoutwho](https://workoutwho.com/) but on steroids 

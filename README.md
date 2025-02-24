@@ -1,6 +1,5 @@
 # Guess Ask
 
-## About Guess Ask
 Guess the hidden word by asking yes/no questions in this fun and interactive game!
 
 ## How to Play
@@ -19,5 +18,5 @@ Try it live at [https://guess-ask.vercel.app/about](https://guess-ask.vercel.app
 ![Game Interface](image-assets/frontend.png)
 
 ## Insprired From
-[workoutwho](https://workoutwho.com/)
+it's basically [workoutwho](https://workoutwho.com/) but on steroids 
 

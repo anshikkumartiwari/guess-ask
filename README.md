@@ -12,7 +12,7 @@ Guess the hidden word by asking yes/no questions in this fun and interactive gam
 - **Two Player**: One player picks a word, the other guesses.
 
 ## Play Now
-Try it live at [https://guess-ask.vercel.app/about](https://guess-ask.vercel.app/).
+Try it live at **[ https://guess-ask.vercel.app/ ](https://guess-ask.vercel.app/)**
 
 ## Screenshot
 ![Game Interface](image-assets/frontend.png)
